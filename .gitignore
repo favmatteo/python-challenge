@@ -1,3 +1,5 @@
 # Ignore incomplete challenge
 codewars/range_extraction.py
 codewars/path_finder.py
+
+leetCode/zigzag_conversion.py
